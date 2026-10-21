@@ -1,19 +1,19 @@
 {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fleetlint/fleetlint/releases/download/v0.6.0/fleetlint_0.6.0_windows_amd64.zip",
+            "url": "https://github.com/fleetlint/fleetlint/releases/download/v0.6.1/fleetlint_0.6.1_windows_amd64.zip",
             "bin": [
                 "fleetlint.exe"
             ],
-            "hash": "7492c76fd531711e64bfeac113c17a1e5daf437e6681f382738f974a1f360350"
+            "hash": "6ee010b6e4558e8a4031ea3cda036757a1dbb7514571dc77ddae429fddd60e3f"
         },
         "arm64": {
-            "url": "https://github.com/fleetlint/fleetlint/releases/download/v0.6.0/fleetlint_0.6.0_windows_arm64.zip",
+            "url": "https://github.com/fleetlint/fleetlint/releases/download/v0.6.1/fleetlint_0.6.1_windows_arm64.zip",
             "bin": [
                 "fleetlint.exe"
             ],
-            "hash": "41566e44edc4f7fb117647110b45ab9b3d38fab8f95c75b4621ca21ee78bb2dc"
+            "hash": "90c47e82d5f34e4a4ca27250c46b7cd956800d50a322fc57949e156374d55820"
         }
     },
     "homepage": "https://fleetlint.org",
